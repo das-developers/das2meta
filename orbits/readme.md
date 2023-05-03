@@ -25,4 +25,4 @@ by [Kristoff Paulson](https://github.com/kpaulson) a couple years ago and
 likely need updates.  The upstream source at that time was: 
 https://sppgway.jhuapl.edu/psp_data_releases
 
-The Parker Solar Probe files are a copy of files found in https://github.com/autoplot/orbits/tree/main/psp.  Autoplot still reads these files and the copy here is only for reference.
+The Parker Solar Probe files are a copy of files found in [autoplot/orbits](https://github.com/autoplot/orbits/tree/main/psp).  Autoplot still reads these files and the copy here is only for reference.
