@@ -1,4 +1,4 @@
-# Das2 Meta data
+# Das2 Metadata
 
 This area is intended for additional information which the Das2 libraries can use 
 for processing.  Created to host the orbits files which enumerate interesting 
