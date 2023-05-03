@@ -12,3 +12,6 @@ of the identified intervals.)
 
 See also https://das2.org/Orbits, which was the old home for these files.  It is still
 checked and is a copy of this location.
+
+# PSP Files
+The Parker Solar Probe files are a copy of files found in https://github.com/autoplot/orbits/tree/main/psp.  Autoplot still reads these files and the copy here is only for reference.
