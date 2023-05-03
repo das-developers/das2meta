@@ -13,6 +13,10 @@ of the identified intervals.)
 See also https://das2.org/Orbits, which was the old home for these files.  It is still
 checked and is a copy of this location.
 
+Also note this is the Das2 Java code which reads the files: https://github.com/das-developers/das2java/blob/main/dasCoreDatum/src/org/das2/datum/Orbits.java,
+which has the unfortunate logic that "-" (dash) is converted to "_" (underscore) in identifiers.  It's not known why this was done
+but presumably the logic is necessary.
+
 ## RBSP Orbits
 The two orbits files from the Van Allen Probes mission were copied from https://space.physics.uiowa.edu/plasma-wave/rbsp/orbits/.  The
 Das2 code still uses these and they are only for reference, until the code is updated.  When this happens, this text should be 
