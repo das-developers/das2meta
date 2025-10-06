@@ -28,3 +28,5 @@ likely need updates.  The upstream source at that time was:
 https://sppgway.jhuapl.edu/psp_data_releases
 
 The Parker Solar Probe files are a copy of files found in [autoplot/orbits](https://github.com/autoplot/orbits/tree/main/psp).  Autoplot still reads these files and the copy here is only for reference.
+
+Jeremy updated 2025 orbits for PSP using https://psp-gateway.jhuapl.edu/website/SciencePlanning/MissionEvents.
