@@ -30,3 +30,7 @@ https://sppgway.jhuapl.edu/psp_data_releases
 The Parker Solar Probe files are a copy of files found in [autoplot/orbits](https://github.com/autoplot/orbits/tree/main/psp).  Autoplot still reads these files and the copy here is only for reference.
 
 Jeremy updated 2025 orbits for PSP using https://psp-gateway.jhuapl.edu/website/SciencePlanning/MissionEvents.
+
+## Juno Orbits
+Jeremy updates the Juno orbits from the U. Iowa campus, using the Autoplot script /home/jbf/project/juno/git/juno/resources/orbits/createOrbitsFile.jy.  This reads in a .csv file of the Juno_EM2_Ref_Orbital_Useful_for_Science_Planning spreadsheet, which must be converted from .xlsx to .csv.  The
+Autoplot script dumps the orbit bounds to the stdout, and these are copied by hand into github.
